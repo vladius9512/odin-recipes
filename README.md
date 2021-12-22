@@ -1,1 +1,2 @@
 # odin-recipes
+The purpose for this project is to create a simple html only website, consisting of recipes. It will look bad, but at least we will have a starting point from where to improve into better site builders. 
